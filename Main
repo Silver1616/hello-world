@@ -1,6 +1,6 @@
 = Expression.Evaluate(
         Text.FromBinary(
             Binary.Buffer(
-                Web.Contents("https://raw.githubusercontent.com/ezabitov/PQAmoCrm/master/main.m", [Headers=[Accept=""]])
+                Web.Contents("https://github.com/Silver1616/hello-world/blob/master/Main", [Headers=[Accept=""]])
             )
         ), #shared)
